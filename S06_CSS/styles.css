@@ -1,0 +1,28 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1579546929662-711aa81148cf?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHw%3D&w=1000&q=80);
+  background-size: cover;
+}
+
+h2,
+p {
+  color: white;
+  text-align: center;
+  border: 5px solid purple;
+  cursor: pointer;
+}
+
+p {
+  color: green;
+  text-decoration: underline;
+  text-transform: uppercase;
+  line-height: 24px;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 150%;
+  font-family: "Times New Roman", Georgia;
+}
+
+li {
+  list-style: none;
+  display: inline-block;
+}
