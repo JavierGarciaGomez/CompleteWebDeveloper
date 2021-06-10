@@ -7,3 +7,12 @@ Three types of packages
 -database
 
 ***** 204 installing node ****
+-live server
+-lodash 
+-Semantic version
+4.2.02
+4-major changes
+2-minor release: new features, no major changes
+02-patch release: bug fixing
+
+***** 207 Why update packages ****
