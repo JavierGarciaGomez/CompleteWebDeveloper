@@ -1,2 +1,11 @@
 210 Introduction
 212 npm install -g create-react-app
+
+214 new way of creating a react app
+npx create-react-app my-app
+cd my-app
+npm start
+
+219 
+hello components
+install tachyons
